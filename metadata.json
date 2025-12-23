@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Smart Pantry AI",
+  "description": "A glassmorphic inventory management dashboard powered by Gemini for real-time stock analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
